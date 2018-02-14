@@ -1,0 +1,8 @@
+body{
+    font-size: 20px;
+}
+
+input {
+    display: block;
+    margin: 0.5em 0;
+}
